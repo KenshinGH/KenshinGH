@@ -9,4 +9,3 @@ for i in s:
 
 	if index >= 97:
 		print(chr(index), end = '')
-print()
